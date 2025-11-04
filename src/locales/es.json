@@ -1,0 +1,26 @@
+{
+  "hero": {
+    "title": "Pitching con Mario",
+    "subtitle": "Raíces venezolanas. Estándares de Grandes Ligas.",
+    "text": "Instrucción profesional de pitcheo • Houston, Texas",
+    "cta": "Reserva tu sesión"
+  },
+  "about": {
+    "title": "Acerca del Coach Mario",
+    "p1": "Mario Fernández, ex lanzador profesional de la organización de los Tampa Bay Rays, aporta años de experiencia profesional e internacional a cada sesión de entrenamiento.",
+    "p2": "Ya sea que estés puliendo tu mecánica, aumentando tu velocidad o aprendiendo a competir con confianza, el método de Mario forma lanzadores completos — de la mente al montículo.",
+    "cta": "Ver programas de entrenamiento"
+  },
+  "programs": {
+    "title": "Programas de Entrenamiento",
+    "intro": "Cada jugador tiene su propio camino. Los programas de Mario están diseñados para perfeccionar la mecánica, aumentar la velocidad y desarrollar la mentalidad competitiva necesaria para dominar desde el montículo.",
+    "private": { "title": "Clases Privadas", "desc": "Sesiones personalizadas enfocadas en precisión mecánica y retroalimentación individual.", "cta": "Más información" },
+    "velocity": { "title": "Velocidad y Fuerza", "desc": "Entrenamiento híbrido de ciencia del movimiento y trabajo explosivo. Aumenta la velocidad del brazo de forma segura, mejora la postura y libera potencia en cada lanzamiento.", "cta": "Más información" },
+    "group": { "title": "Sesiones Grupales", "desc": "Entrena junto a tus compañeros en un ambiente competitivo que mejora el enfoque, el comando y la ejecución bajo presión.", "cta": "Unirte al grupo" },
+    "stats": {
+      "p1": "+300 Lanzadores entrenados",
+      "p2": "+10 MPH promedio de aumento de velocidad",
+      "p3": "+15 Años de experiencia profesional"
+    }
+  }
+}

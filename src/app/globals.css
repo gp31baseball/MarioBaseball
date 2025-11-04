@@ -1,5 +1,21 @@
 @import "tailwindcss";
 
+/* 🇻🇪 Venezuelan Flag Theme Variables */
+:root {
+  --ven-yellow: #FFD100;
+  --ven-blue: #002F6C;
+  --ven-red: #C8102E;
+  --ven-gray: #B7BDC6;
+  --ven-dark: #0C0C0C;
+}
+
+body {
+  background-color: var(--ven-dark);
+  color: white;
+  font-family: 'Inter', sans-serif;
+}
+
+
 :root {
   --background: #ffffff;
   --foreground: #171717;

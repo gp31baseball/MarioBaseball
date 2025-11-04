@@ -1,0 +1,42 @@
+
+  {
+  "hero": {
+    "title": "Pitching with Mario",
+    "subtitle": "Venezuelan Roots. Major League Standards.",
+    "text": "Professional Pitching Instruction • Houston, Texas",
+    "cta": "Book a Session"
+  },
+  "about": {
+    "title": "About Coach Mario",
+    "p1": "Mario Fernandez, a former professional pitcher in the Tampa Bay Rays organization, brings years of professional and international experience to every training session.",
+    "p2": "Whether you’re refining your delivery, building velocity, or learning how to compete with confidence, Mario’s approach develops complete pitchers — from the mind to the mound.",
+    "cta": "View Training Programs"
+  },
+  "programs": {
+    "title": "Training Programs",
+    "intro": "Every athlete’s journey is unique. Mario’s programs are built to refine mechanics, elevate velocity, and develop the competitive mindset it takes to dominate from the mound.",
+    "private": {
+      "title": "Private Lessons",
+      "desc": "One-on-one sessions focused on mechanical precision, sequencing, and personalized feedback.",
+      "cta": "Learn More"
+    },
+    "velocity": {
+      "title": "Velocity & Strength",
+      "desc": "A hybrid of movement science and explosive training. Build safe arm speed, improve posture, and unlock power on every pitch.",
+      "cta": "Learn More"
+    },
+    "group": {
+      "title": "Group Sessions",
+      "desc": "Train alongside peers in competitive environments that sharpen focus, command, and execution under pressure.",
+      "cta": "Join a Group"
+    },
+    "stats": {
+      "p1": "+300 Pitchers Trained",
+      "p2": "+10 MPH Average Velocity Gain",
+      "p3": "+15 Years Professional Experience"
+    }
+  }
+}
+
+
+
